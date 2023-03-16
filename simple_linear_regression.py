@@ -7,7 +7,7 @@ import matplotlib.pyplot as plt
 
 #__________Applying Linear Regresstion using Build-in Model__________#
 
-df_train = pd.read_csv('train.csv')   # Loading Dataset training use your own location as where you are placing the test.csv and trian.csv   
+df_train = pd.read_csv('train.csv')   # Loading Dataset training use your own path as where you are placing the test.csv and trian.csv   
 df_test = pd.read_csv('test.csv')     # Loading Dataset testing
 
 x_train = df_train['x']
