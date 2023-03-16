@@ -1,6 +1,6 @@
 # Simple Linear-Regression Using NumPy and Scikit-Learn 
 ## Modelling Linear Regression on X and Y Values from **.csv** file
-This markdown file explains the implementation of Simple Linear Regression to a dataset using two different methods.
+This Project explains the implementation of Simple Linear Regression to a dataset using two different methods.
 
 ## Method 1: Scikit-Learn Library
 The first method uses the built-in linear regression model from the scikit-learn library to train the dataset. The following steps are followed:
