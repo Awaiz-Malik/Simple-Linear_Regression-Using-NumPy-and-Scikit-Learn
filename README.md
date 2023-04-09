@@ -11,7 +11,6 @@ Load the dataset using pandas **read_csv()** function
 3. Train the model using scikit-learn's **LinearRegression()** function
 4. Test the accuracy of the model using the **R-squared score**
 5. Visualize the best fit line using Matplotlib
-6. 
 ## Method 2: NumPy Library
 The second method implements simple linear regression using the NumPy library. The following steps are followed:
 
